@@ -1905,6 +1905,10 @@ blockquote cite {
   text-transform: uppercase;
 }
 
+.b-contacts__description a:hover {
+  color: #fff;
+}
+
 .b-contacts-social {
   margin-bottom: 75px;
   margin-left: 0;
