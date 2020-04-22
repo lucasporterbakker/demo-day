@@ -301,14 +301,14 @@ img.pull-left {
   padding-right: 20px;
 }
 
-img {
+img:hover {
   -webkit-transition: all .3s;
   transition: all .3s;
   -webkit-filter: grayscale(100%);
           filter: grayscale(100%);
 }
 
-img:hover {
+img {
   -webkit-filter: grayscale(0);
           filter: grayscale(0);
 }
